@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://takumi748.icu</id>
     <title>Takumiの魔法世界</title>
-    <updated>2021-05-07T07:28:20.003Z</updated>
+    <updated>2021-06-17T13:59:32.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://takumi748.icu"/>
     <link rel="self" href="https://takumi748.icu/atom.xml"/>
@@ -72,8 +72,9 @@
 <img src="https://takumi748.icu/post-images/1617376543336.jpg" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="1"><img src="https://takumi748.icu/post-images/1617376557359.jpg" alt="" loading="lazy"></figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afUxkI3RQoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-这是战斗联机画面
+<p>这是战斗联机画面</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Zjlj0s0t1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-这是静止状态下的画面]]></content>
+<p>这是静止状态下的画面</p>
+]]></content>
     </entry>
 </feed>
